@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973681146440",
+    "project_id": "strangetalks-d1c8e",
+    "storage_bucket": "strangetalks-d1c8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973681146440:android:78dc575c284fee7cd7767d",
+        "android_client_info": {
+          "package_name": "com.example.strangetalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973681146440-lo082hu8bs44lpaqlj5ic7oiq0lov6p1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.strangetalks",
+            "certificate_hash": "6e30552781b93da15fbbbe5caa14c80f6b0d6df6"
+          }
+        },
+        {
+          "client_id": "973681146440-rusith79a3imkg2m1g3h0srfu0ht2ogq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ5O1g1On5bJjRVJ5PR1S1kqrTtaUCHmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973681146440-rusith79a3imkg2m1g3h0srfu0ht2ogq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
